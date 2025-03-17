@@ -98,7 +98,7 @@ My research mainly focuses on **Mutimodal Large Language Models** and **Paramete
   <dt><img align="left" width="400" src="../images/paper/LoRASculpt.png" alt="LVLM_Safety_Survey"></dt>
   <dd><a href="" class="publication-title">LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</a></dd>
   <dd><strong>Jian Liang</strong>, Wenke Huang, Guancheng Wan, Qu yang, Mang Ye*</dd>
-  <dd>Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2025</dd>
+  <dd>Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025</dd>
 </dl>
 
 <hr>
