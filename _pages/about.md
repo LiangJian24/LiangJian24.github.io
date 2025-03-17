@@ -127,7 +127,33 @@ My research mainly focuses on **Mutimodal Large Language Models** and **Paramete
 
 
 # 🎖 Honors and Awards
+- **First Class Scholarship of Wuhan University** (Award Rate: <strong>5% school-wide</strong>) *Wuhan University*
+- <a href="https://edf.whu.edu.cn/info/1342/6057.htm">**Xunteng Huang Memorial Scholarship**</a> (Award Rate: <strong>2% department-wide</strong>)   *Wuhan University*
+- <a href="https://edu.hicomputing.huawei.com/winnerlist#:~:text=%E6%98%B1%E6%AC%A3%EF%BC%8C-,%E6%A2%81%E5%81%A5,-%EF%BC%8C">**Huawei Intelligent Base Scholarship**</a>   *Huawei*
+
 
 
 # 📖 Educations
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1; font-size: 1.1em;">
+      <strong>2024.09 - Now</strong><br/>
+      PhD Student, School of Computer Science, Wuhan University<br/>
+    </div>
+    <div style="flex-shrink: 0; max-width: 100px;">
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1; font-size: 1.1em;">
+      <strong>2020.09 - 2024.06</strong><br/>
+      Bachelor, School of Mathematics and Statistics, Wuhan University<br/>
+    </div>
+    <div style="flex-shrink: 0; max-width: 100px;">
+    </div>
+  </div>
+</div>
 
