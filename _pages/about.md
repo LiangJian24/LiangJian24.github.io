@@ -85,12 +85,38 @@ My research focuses on **Mutimodal Large Language Models and Parameter-Efficient
 
 # 📝 Publications 
 
-&dagger;: equal contribution (names listed in no particular order), * : corresponding author
+&dagger;: equal contribution, * : corresponding author
 
 ## ⌛️ In Submission & Preprint
+<hr>
 
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/LoRASculpt.png" alt="LVLM_Safety_Survey"></dt>
+  <dd><a href="" class="publication-title">LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</a></dd>
+  <dd><strong>Jian Liang</strong>, Wenke Huang, Guancheng Wan, Qu yang, Mang Ye</dd>
+  <dd>CVPR 2025</dd>
+</dl>
 
+<hr>
 
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/MLLMFT_Survey.png" alt="Client As Navigator"></dt>
+  <dd><a href="" class="publication-title">Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model</a></dd>
+  <dd>Wenke Huang&dagger;, <strong>Jian Liang&dagger;</strong>, Xianda Guo, Yiyang Fang, Guancheng Wan, <strong>Xuankun Rong</strong>, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
+  <dd>Under Review</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/SPIDER.png" alt="MLLM_Finetune_Survey"></dt>
+  <dd><a href="" class="publication-title">Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning</a></dd>
+
+  <dd>Wenke Huang, <strong>Jian Liang</strong>, Zekun Shi, Didi Zhu, Guancheng Wan, He Li, Bo Du, Dacheng Tao, Mang Ye*</dd>
+  <dd>Under Review</dd>
+</dl>
+
+<hr>
 
 
 # 🎖 Honors and Awards
