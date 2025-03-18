@@ -127,10 +127,10 @@ My research mainly focuses on **Mutimodal Large Language Models** and **Paramete
 
 
 # 🎖 Honors and Awards
-- **Outstanding Graduate of School of Mathematics and Statistics, Wuhan University** <span style="float: right;">*Wuhan University*</span>
-- **First Class Scholarship of Wuhan University** (Award Rate: <strong>5% school-wide</strong>) <span style="float: right;">*Wuhan University*</span>
-- <a href="https://edf.whu.edu.cn/info/1342/6057.htm">**Xunteng Huang Memorial Scholarship**</a> (Award Rate: <strong>2% department-wide</strong>)   <span style="float: right;">*Wuhan University*</span>
-- <a href="https://edu.hicomputing.huawei.com/winnerlist#:~:text=%E6%98%B1%E6%AC%A3%EF%BC%8C-,%E6%A2%81%E5%81%A5,-%EF%BC%8C">**Huawei Intelligent Base Scholarship**</a>   <span style="float: right;">*Huawei*</span>
+- Outstanding Graduate of School of Mathematics and Statistics, Wuhan University <span style="float: right;">*Wuhan University*</span>
+- First Class Scholarship of Wuhan University (Award Rate: <strong>5% school-wide</strong>) <span style="float: right;">*Wuhan University*</span>
+- <a href="https://edf.whu.edu.cn/info/1342/6057.htm">Xunteng Huang Memorial Scholarship</a> (Award Rate: <strong>2% department-wide</strong>)   <span style="float: right;">*Wuhan University*</span>
+- <a href="https://edu.hicomputing.huawei.com/winnerlist#:~:text=%E6%98%B1%E6%AC%A3%EF%BC%8C-,%E6%A2%81%E5%81%A5,-%EF%BC%8C">Huawei Intelligent Base Scholarship</a>   <span style="float: right;">*Huawei*</span>
 
 
 
