@@ -109,7 +109,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <dl>
   <dt><img align="left" width="400" src="../images/paper/MLLMFT_Survey.png" alt="Client As Navigator"></dt>
   <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model</a></dd>
-  <dd>Wenke Huang&dagger;, <strong>Jian Liang&dagger;</strong> <strong><span class="co-first">(co-first)</span></strong>, Xianda Guo, Yiyang Fang, Guancheng Wan, Xuankun Rong, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
+  <dd>Wenke Huang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong> <strong><span class="co-first">(co-first)</span></strong>, Xianda Guo<sup>&dagger;</sup>, Yiyang Fang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Xuankun Rong, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
   <dd>Under Review</dd>
 </dl>
 
