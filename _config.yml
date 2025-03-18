@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jian Liang's Homepage"
-description              : "PhD student at Wuhan University"
+description              : "jianliang [at] whu.edu.cn"
 repository               : "LiangJian24/LiangJian.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jian Liang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "jianliang [at] whu.edu.cn"
+  bio              : "PhD student at Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
