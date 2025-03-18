@@ -74,7 +74,7 @@ redirect_from:
 
 # Short Bio
 
-My name is Jian Liang (梁健), a Ph.D. student in School of Computer Science at Wuhan University, advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from School of Mathematics and Statistics at Wuhan University in 2024.
+My name is Jian Liang (梁健), a Ph.D. student in the [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [School of Mathematics and Statistics at Wuhan University](https://maths.whu.edu.cn/) in 2024.
 
 My research mainly focuses on **Mutimodal Large Language Models** and **Parameter-Efficient Fine-Tuning**.
 
