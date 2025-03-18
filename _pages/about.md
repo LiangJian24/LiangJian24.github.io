@@ -136,25 +136,6 @@ My research mainly focuses on **Mutimodal Large Language Models** and **Paramete
 
 # 📖 Educations
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <div style="flex: 1; font-size: 1.1em;">
-      <strong>2024.09 - Now</strong><br/>
-      PhD Student, School of Computer Science, Wuhan University<br/>
-    </div>
-    <div style="flex-shrink: 0; max-width: 100px;">
-    </div>
-  </div>
-</div>
-
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <div style="flex: 1; font-size: 1.1em;">
-      <strong>2020.09 - 2024.06</strong><br/>
-      Bachelor, School of Mathematics and Statistics, Wuhan University<br/>
-    </div>
-    <div style="flex-shrink: 0; max-width: 100px;">
-    </div>
-  </div>
-</div>
+- *2024.09 - now*, PhD Student, School of Computer Science, Wuhan University, China.
+- *2020.09 - 2024.06*, Bachelor, School of Mathematics and Statistics, Wuhan University, China.
 
