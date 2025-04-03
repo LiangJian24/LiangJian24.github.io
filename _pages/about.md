@@ -83,12 +83,9 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
-  <ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; font-size: 14px;">
-      <img src="../images/paper/sculpt_icon.png" width="16" height="16" style="margin-right: 6px;">
-      <span><em>2025.02:</em> LoRASculpt was accepted to <strong>CVPR 2025</strong>.</span>
-    </li>
-  </ul>
+<ul>
+  <li><em>2025.02:</em> 🚀 LoRASculpt was accepted to <strong>CVPR 2025</strong>.</li>
+</ul>
 </div>
 
 
