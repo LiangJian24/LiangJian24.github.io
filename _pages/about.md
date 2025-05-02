@@ -97,7 +97,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/LoRASculpt.png" alt="LVLM_Safety_Survey"></dt>
+  <dt><img align="left" width="400" src="../images/paper/LoRASculpt.png" alt="LoRASculpt"></dt>
   <dd><a href="https://arxiv.org/abs/2503.16843" class="publication-title">LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</a></dd>
   <dd><strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Qu yang, Mang Ye*</dd>
   <dd>Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025</dd>
@@ -107,7 +107,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/SEPM.png" alt="MLLM_Finetune_Survey"></dt>
+  <dt><img align="left" width="400" src="../images/paper/SEPM.png" alt="SEPM"></dt>
   <dd><a href="" class="publication-title">Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models</a></dd>
   <dd>Yiyang Fang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, He Li, Kehua Su*, Mang Ye*</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
@@ -117,7 +117,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/SPIDER.png" alt="MLLM_Finetune_Survey"></dt>
+  <dt><img align="left" width="400" src="../images/paper/SPIDER.png" alt="SPIDER"></dt>
   <dd><a href="" class="publication-title">Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning</a></dd>
   <dd>Wenke Huang, <strong>Jian Liang<sup>&dagger;</sup></strong>, Zekun Shi, Didi Zhu, Guancheng Wan, He Li, Bo Du, Dacheng Tao, Mang Ye*</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
@@ -126,7 +126,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/NRCA" alt="MLLM_Finetune_Survey"></dt>
+  <dt><img align="left" width="400" src="../images/paper/NRCA" alt="NRCA"></dt>
   <dd><a href="" class="publication-title">Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning</a></dd>
   <dd>Wenke Huang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong>, Guancheng Wan, Didi Zhu, He Li, Jiawei Shao, Mang Ye, Bo Du, Dacheng Tao</dd>
   <dd>Be Confident: Uncovering Overfitting in MLLM Multi-Task Tuning</dd>
@@ -136,7 +136,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/FedICU" alt="MLLM_Finetune_Survey"></dt>
+  <dt><img align="left" width="400" src="../images/paper/FedICU" alt="FedICU"></dt>
   <dd><a href="" class="publication-title">g</a></dd>
   <dd>Yangxu Liao, Wenke Huang, Guancheng Wan, <strong>Jian Liang</strong>, Bin Yang, Mang Ye*</dd>
   <dd>Splitting with Importance-aware Updating for Heterogeneous Federated Learning with Large Language Models</dd>
