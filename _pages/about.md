@@ -117,6 +117,15 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <hr>
 
 <dl>
+  <dt><img align="left" width="400" src="../images/paper/NRCA.png" alt="NRCA"></dt>
+  <dd><a href="" class="publication-title">Be Confident: Uncovering Overfitting in MLLM Multi-Task Tuning</a></dd>
+  <dd>Wenke Huang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong>, Guancheng Wan, Didi Zhu, He Li, Jiawei Shao, Mang Ye, Bo Du, Dacheng Tao</dd>
+  <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
   <dt><img align="left" width="400" src="../images/paper/SPIDER.png" alt="SPIDER"></dt>
   <dd><a href="" class="publication-title">Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning</a></dd>
   <dd>Wenke Huang, <strong>Jian Liang<sup>&dagger;</sup></strong>, Zekun Shi, Didi Zhu, Guancheng Wan, He Li, Bo Du, Dacheng Tao, Mang Ye*</dd>
@@ -126,20 +135,9 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/NRCA.png" alt="NRCA"></dt>
-  <dd><a href="" class="publication-title">Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning</a></dd>
-  <dd>Wenke Huang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong>, Guancheng Wan, Didi Zhu, He Li, Jiawei Shao, Mang Ye, Bo Du, Dacheng Tao</dd>
-  <dd>Be Confident: Uncovering Overfitting in MLLM Multi-Task Tuning</dd>
-  <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
-</dl>
-
-<hr>
-
-<dl>
   <dt><img align="left" width="400" src="../images/paper/FedICU.png" alt="FedICU"></dt>
-  <dd><a href="" class="publication-title">g</a></dd>
+  <dd><a href="" class="publication-title">Splitting with Importance-aware Updating for Heterogeneous Federated Learning with Large Language Models</a></dd>
   <dd>Yangxu Liao, Wenke Huang, Guancheng Wan, <strong>Jian Liang</strong>, Bin Yang, Mang Ye*</dd>
-  <dd>Splitting with Importance-aware Updating for Heterogeneous Federated Learning with Large Language Models</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
 </dl>
 
