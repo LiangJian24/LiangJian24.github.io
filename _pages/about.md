@@ -128,7 +128,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <dl>
   <dt><img align="left" width="400" src="../images/paper/SPIDER.png" alt="SPIDER"></dt>
   <dd><a href="" class="publication-title">Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning</a></dd>
-  <dd>Wenke Huang, <strong>Jian Liang<sup>&dagger;</sup></strong>, Zekun Shi, Didi Zhu, Guancheng Wan, He Li, Bo Du, Dacheng Tao, Mang Ye*</dd>
+  <dd>Wenke Huang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong>, Zekun Shi, Didi Zhu, Guancheng Wan, He Li, Bo Du, Dacheng Tao, Mang Ye*</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
 </dl>
 
