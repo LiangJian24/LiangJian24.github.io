@@ -80,14 +80,14 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 
 
 
-
+<!--
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.02:</em> 🚀 LoRASculpt was accepted to <strong>CVPR 2025</strong>.</li>
+  <li><em>[02/2025]</em> LoRASculpt was accepted to <strong>CVPR 2025</strong>.</li>
 </ul>
 </div>
-
+-->
 
 
 # 📝 Publications 
