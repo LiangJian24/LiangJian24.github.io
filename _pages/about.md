@@ -117,7 +117,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/NRCA.png" alt="NRCA"></dt>
+  <dt><img align="left" width="400" src="../images/paper/NRCA_ICML25.png" alt="NRCA"></dt>
   <dd><a href="" class="publication-title">Be Confident: Uncovering Overfitting in MLLM Multi-Task Tuning</a></dd>
   <dd>Wenke Huang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong>, Guancheng Wan, Didi Zhu, He Li, Jiawei Shao, Mang Ye, Bo Du, Dacheng Tao</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
