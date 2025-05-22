@@ -125,6 +125,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 
 <hr>
 
+<!--
 <dl>
   <dt><img align="left" width="400" src="../images/paper/SPIDER.png" alt="SPIDER"></dt>
   <dd><a href="" class="publication-title">Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning</a></dd>
@@ -142,13 +143,25 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 </dl>
 
 <hr>
+-->
+
 
 
 ## ⌛️ In Submission & Preprint
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/MLLMFT_Survey.png" alt="Client As Navigator"></dt>
+  <dt><img align="left" width="400" src="../images/paper/ThanoRA.png" alt="ThanoRA"></dt>
+  <dd><a href="" class="publication-title">ThanoRA: Task Heterogeneity-Aware Multi-Task Low-Rank Adaptation</a></dd>
+  <dd></dd>
+  <dd>Under Review</dd>
+</dl>
+
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/MLLMFT_Survey.png" alt=""></dt>
   <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model</a></dd>
   <dd>Wenke Huang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong>, Xianda Guo<sup>&dagger;</sup>, Yiyang Fang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Xuankun Rong, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
   <dd>Under Review</dd>
