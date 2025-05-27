@@ -150,15 +150,15 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 ## ⌛️ Preprint
 <hr>
 
-<!--
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/ThanoRA.png" alt="ThanoRA"></dt>
-  <dd><a href="" class="publication-title">ThanoRA: Task Heterogeneity-Aware Multi-Task Low-Rank Adaptation</a></dd>
+  <dd><a href="https://arxiv.org/abs/2505.18640" class="publication-title">ThanoRA: Task Heterogeneity-Aware Multi-Task Low-Rank Adaptation</a></dd>
   <dd><strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Xianda Guo<sup>&dagger;</sup>, Guancheng Wan, Bo Du, Mang Ye*</dd>
   <dd>arXiv</dd>
 </dl>
 <hr>
--->
+
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/MLLMFT_Survey.png" alt=""></dt>
