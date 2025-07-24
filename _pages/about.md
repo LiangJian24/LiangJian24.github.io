@@ -113,7 +113,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
   <dd>Yiyang Fang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, He Li, Kehua Su*, Mang Ye*</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
   <dd><a href="https://github.com/fuyyyyy/SEPM">[Project Page]</a></dd>
-  <dd style="color:#B02418;"><strong>Spotlight (313/12107, 2.6%)</strong></dd>
+  <dd style="color:#B02418;"><strong><em>Spotlight (313/12107, 2.6%)</em></strong></dd>
 </dl>
 
 <hr>
