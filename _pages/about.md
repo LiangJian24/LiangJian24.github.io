@@ -101,6 +101,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
   <dd><a href="https://arxiv.org/abs/2503.16843" class="publication-title">LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</a></dd>
   <dd><strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Qu yang, Mang Ye*</dd>
   <dd>Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025</dd>
+  <dd><a href="https://github.com/LiangJian24/LoRASculpt">[Project Page]</a></dd>
   <dd style="color:#B02418;"><strong>Oral Presentation</strong></dd>
 </dl>
 
@@ -111,6 +112,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
   <dd><a href="" class="publication-title">Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models</a></dd>
   <dd>Yiyang Fang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, He Li, Kehua Su*, Mang Ye*</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
+  <dd><a href="https://github.com/fuyyyyy/SEPM">[Project Page]</a></dd>
   <dd style="color:#B02418;"><strong>Spotlight</strong></dd>
 </dl>
 
@@ -155,6 +157,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
   <dt><img align="left" width="400" src="../images/paper/ThanoRA.png" alt="ThanoRA"></dt>
   <dd><a href="https://arxiv.org/abs/2505.18640" class="publication-title">ThanoRA: Task Heterogeneity-Aware Multi-Task Low-Rank Adaptation</a></dd>
   <dd><strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Xianda Guo<sup>&dagger;</sup>, Guancheng Wan, Bo Du, Mang Ye*</dd>
+  <dd><a href="https://github.com/LiangJian24/ThanoRA">[Project Page]</a></dd>
   <dd>arXiv</dd>
 </dl>
 <hr>
@@ -164,16 +167,19 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
   <dt><img align="left" width="400" src="../images/paper/MLLMFT_Survey.png" alt=""></dt>
   <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model</a></dd>
   <dd>Wenke Huang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong>, Xianda Guo<sup>&dagger;</sup>, Yiyang Fang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Xuankun Rong, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
+  <dd><a href="https://github.com/WenkeHuang/Awesome-MLLM-Tuning">[Project Page]</a></dd>
   <dd>arXiv</dd>
 </dl>
 <hr>
 
 
 # 🎖 Honors and Awards
-- Outstanding Graduate of School of Mathematics and Statistics, Wuhan University <span style="float: right;">*Wuhan University*</span>
-- First Class Scholarship of Wuhan University (Award Rate: <strong>5% school-wide</strong>) <span style="float: right;">*Wuhan University*</span>
-- <a href="https://edf.whu.edu.cn/info/1342/6057.htm">Xunteng Huang Memorial Scholarship</a> (Award Rate: <strong>2% department-wide</strong>)   <span style="float: right;">*Wuhan University*</span>
-- <a href="https://edu.hicomputing.huawei.com/winnerlist#:~:text=%E6%98%B1%E6%AC%A3%EF%BC%8C-,%E6%A2%81%E5%81%A5,-%EF%BC%8C">Huawei Intelligent Base Scholarship</a>   <span style="float: right;">*Huawei*</span>
+- Elite Ph.D. Talent Program in Mathematics and Artificial Intelligence of Wuhan University (Award Rate: <strong>7 members school-wide</strong>)
+- Outstanding Graduate of School of Mathematics and Statistics, Wuhan University
+- Outstanding Graduate of School of Mathematics and Statistics, Wuhan University
+- First Class Scholarship of Wuhan University (Award Rate: <strong>5% school-wide</strong>)
+- <a href="https://edf.whu.edu.cn/info/1342/6057.htm">Xunteng Huang Memorial Scholarship</a> (Award Rate: <strong>2% department-wide</strong>)
+- <a href="https://edu.hicomputing.huawei.com/winnerlist#:~:text=%E6%98%B1%E6%AC%A3%EF%BC%8C-,%E6%A2%81%E5%81%A5,-%EF%BC%8C">Huawei Intelligent Base Scholarship</a>
 
 
 
