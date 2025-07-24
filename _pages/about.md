@@ -102,7 +102,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
   <dd><strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Qu yang, Mang Ye*</dd>
   <dd>Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025</dd>
   <dd><a href="https://github.com/LiangJian24/LoRASculpt">[Project Page]</a></dd>
-  <dd style="color:#B02418;"><strong>Oral Presentation</strong></dd>
+  <dd style="color:#B02418;"><strong><em>Oral Presentation</em></strong></dd>
 </dl>
 
 <hr>
