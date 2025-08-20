@@ -183,6 +183,12 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 
 
 
+# 🎙️ Academic Service
+- CSIG 武汉会员活动中心“东湖论坛”青年学者分享会（第3期）<a href="https://m.csig.org.cn/48/202504/52535.html">_Link_</a>
+- VALSE 论文速览 230期 <a href="https://www.bilibili.com/video/BV1xbuJzqEvA">_Link_</a>
+
+
+
 # 📖 Educations
 
 - *2024.09 - now*, PhD Student, School of Computer Science, Wuhan University, China.
