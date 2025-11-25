@@ -180,7 +180,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 - Outstanding Graduate of School of Mathematics and Statistics, Wuhan University
 - First Class Scholarship of Wuhan University (Award Rate: <strong>5% School-wide</strong>)
 - Xunteng Huang Memorial Scholarship <a href="https://edf.whu.edu.cn/info/1342/6057.htm">_Link_</a> (Award Rate: <strong>2% Department-wide</strong>)
-- Huawei Intelligent Base Scholarship <a href="[https://edf.whu.edu.cn/info/1342/6057.htm](https://edu.hicomputing.huawei.com/winnerlist#:~:text=%E6%98%B1%E6%AC%A3%EF%BC%8C-,%E6%A2%81%E5%81%A5,-%EF%BC%8C)">_Link_</a> 
+- Huawei Intelligent Base Scholarship <a href="https://edu.hicomputing.huawei.com/winnerlist#:~:text=%E6%98%B1%E6%AC%A3%EF%BC%8C-,%E6%A2%81%E5%81%A5,-%EF%BC%8C)">_Link_</a> 
 
 
 # 🎙️ Academic Service
