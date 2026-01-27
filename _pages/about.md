@@ -90,7 +90,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 -->
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 &dagger;: equal contribution, * : corresponding author
 
@@ -118,6 +118,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 
 <hr>
 
+<!--
 <dl>
   <dt><img align="left" width="400" src="../images/paper/NRCA_ICML25.png" alt="NRCA"></dt>
   <dd><a href="" class="publication-title">Be Confident: Uncovering Overfitting in MLLM Multi-Task Tuning</a></dd>
@@ -126,6 +127,12 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 </dl>
 
 <hr>
+-->
+
+
+
+
+
 
 <!--
 <dl>
@@ -149,9 +156,11 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 
 
 
+
+
+<!--
 ## ⌛️ Preprint
 <hr>
-
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/ThanoRA.png" alt="ThanoRA"></dt>
@@ -172,6 +181,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 </dl>
 <hr>
 
+-->
 
 # 🎖 Honors and Awards
 - Elite Ph.D. Talent Program in Mathematics and Artificial Intelligence of Wuhan University<br>
