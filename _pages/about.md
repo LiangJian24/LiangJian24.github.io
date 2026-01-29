@@ -99,7 +99,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <dl>
   <dt><img align="left" width="400" src="../images/paper/LoRASculpt.png" alt="LoRASculpt"></dt>
   <dd><a href="https://arxiv.org/abs/2503.16843" class="publication-title">LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</a></dd>
-  <dd><strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Qu yang, Mang Ye*</dd>
+  <dd><strong>Jian Liang</strong>, Wenke Huang, Guancheng Wan, Qu yang, Mang Ye*</dd>
   <dd>Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025</dd>
   <dd><a href="https://github.com/LiangJian24/LoRASculpt">[Project Page]</a></dd>
   <dd style="color:#B02418;"><strong><em>Oral Presentation (96/13008, 0.7%)</em></strong></dd>
@@ -110,7 +110,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 <dl>
   <dt><img align="left" width="400" src="../images/paper/SEPM.png" alt="SEPM"></dt>
   <dd><a href="" class="publication-title">Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models</a></dd>
-  <dd>Yiyang Fang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, He Li, Kehua Su*, Mang Ye*</dd>
+  <dd>Yiyang Fang, <strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang, He Li, Kehua Su*, Mang Ye*</dd>
   <dd>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</dd>
   <dd><a href="https://github.com/fuyyyyy/SEPM">[Project Page]</a></dd>
   <dd style="color:#B02418;"><strong><em>Spotlight (313/12107, 2.6%)</em></strong></dd>
